@@ -4,9 +4,13 @@ Settings for various Firefox add-ons.
 ## uBlock Origin -> Settings -> My Filters
 
 ```
-! 10/7/2019 https://www.nbcsports.com
+! https://www.nbcsports.com
 www.nbcsports.com###nbcsports-live-extra-widget
 www.nbcsports.com##[id^="post-"] > .entry-header
 www.nbcsports.com###block-nbcs-article-nbcs-article-rail > .content
 www.nbcsports.com###nbcsports-secondary-nav
+
+! https://www.cnn.com
+www.cnn.com##.js-pg-rail-tall__head.pg-rail-tall__head
+www.cnn.com##div.el__embedded--standard.el__embedded
 ```
