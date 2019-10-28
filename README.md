@@ -16,4 +16,5 @@ www.cnn.com##.js-pg-rail-tall__head.pg-rail-tall__head
 www.cnn.com##div.el__embedded--standard.el__embedded
 www.cnn.com###breaking-news
 www.cnn.com###breaking-news-banner
+www.cnn.com##.ls-event-tray
 ```
