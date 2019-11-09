@@ -10,6 +10,7 @@ www.nbcsports.com##[id^="post-"] > .entry-header
 www.nbcsports.com###block-nbcs-article-nbcs-article-rail > .content
 www.nbcsports.com###nbcsports-secondary-nav
 www.nbcsports.com##div.video-filter
+||art19.com/shows/$subdocument
 
 ! https://www.cnn.com
 www.cnn.com##.js-pg-rail-tall__head.pg-rail-tall__head
