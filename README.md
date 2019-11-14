@@ -18,4 +18,5 @@ www.cnn.com##div.el__embedded--standard.el__embedded
 www.cnn.com###breaking-news
 www.cnn.com###breaking-news-banner
 www.cnn.com##.ls-event-tray
+www.cnn.com##.Hero__component.Hero__isMax.Hero__isLarge
 ```
