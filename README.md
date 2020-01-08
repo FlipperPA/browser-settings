@@ -10,7 +10,6 @@ www.nbcsports.com##[id^="post-"] > .entry-header
 www.nbcsports.com###block-nbcs-article-nbcs-article-rail > .content
 www.nbcsports.com###nbcsports-secondary-nav
 www.nbcsports.com##div.video-filter
-www.nbcsports.com###nbcsports-breaking-news-marquee
 ||art19.com/shows/$subdocument
 
 ! https://www.cnn.com
@@ -19,5 +18,5 @@ www.cnn.com##div.el__embedded--standard.el__embedded
 www.cnn.com###breaking-news
 www.cnn.com###breaking-news-banner
 www.cnn.com##.ls-event-tray
-www.cnn.com##.Hero__component.Hero__isMax.Hero__isLarge
+www.cnn.com##.Hero__component
 ```
