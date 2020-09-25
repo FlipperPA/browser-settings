@@ -29,4 +29,5 @@ www.cnn.com###breaking-news
 www.cnn.com###breaking-news-banner
 www.cnn.com##.ls-event-tray
 www.cnn.com##.Hero__component
+||registry.api.cnn.io/assets/fave/theoplayer$domain=cnn.com
 ```
