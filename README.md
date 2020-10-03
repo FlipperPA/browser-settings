@@ -1,5 +1,5 @@
-# firefox-settings
-Settings for various Firefox add-ons.
+# Browser Settings
+Settings for various browser add-ons.
 
 ## uBlock Origin -> Settings -> My Filters
 
@@ -21,6 +21,7 @@ www.nbcsports.com##.site-footer
 www.nbcsports.com##.footer
 www.nbcsports.com##.advertisment-border.block-stanza
 www.nbcsports.com##.sticky-video-close-button.js-close-sticky
+||nbcsports.com/vplayer/$subdocument
 
 ! https://www.cnn.com
 www.cnn.com##.js-pg-rail-tall__head.pg-rail-tall__head
