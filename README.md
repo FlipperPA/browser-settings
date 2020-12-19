@@ -10,8 +10,10 @@ www.nbcsports.com##[id^="post-"] > .entry-header
 www.nbcsports.com###block-nbcs-article-nbcs-article-rail > .content
 www.nbcsports.com###nbcsports-secondary-nav
 www.nbcsports.com##div.video-filter
+##.recirc-module
 ||art19.com/shows/$subdocument
 ! New design as of 9/1/2020
+www.nbcphiladelphia.com##.recirc-module
 www.nbcsports.com##.no-gutters.font-founders-mono.relative.node--article__header > .offset-sm-1
 www.nbcsports.com###player
 www.nbcsports.com##.badge-wrapper.offset-sm-1
